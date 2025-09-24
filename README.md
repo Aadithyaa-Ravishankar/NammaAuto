@@ -2,6 +2,21 @@
 
 NammaAuto is a modern ride-sharing application built with Flutter, offering separate interfaces for users and drivers. The application integrates with Google Maps for location services and Supabase for backend functionality. It provides a seamless experience for both passengers and drivers with real-time tracking, notifications, and efficient ride management.
 
+<table>
+  <tr>
+    <td><img src="assets/images/screen1.png" width="300"/></td>
+    <td><img src="assets/images/screen2.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/screen3.png" width="300"/></td>
+    <td><img src="assets/images/screen4.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/screen5.png" width="300"/></td>
+    <td><img src="assets/images/screen6.png" width="300"/></td>
+  </tr>
+</table>
+
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
