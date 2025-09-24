@@ -4,16 +4,16 @@ NammaAuto is a modern ride-sharing application built with Flutter, offering sepa
 
 <table>
   <tr>
-    <td><img src="assets/images/screen1.png" width="300"/></td>
-    <td><img src="assets/images/screen2.png" width="300"/></td>
+    <td><img src="assets/image1.png" width="300"/></td>
+    <td><img src="assets/image2.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="assets/images/screen3.png" width="300"/></td>
-    <td><img src="assets/images/screen4.png" width="300"/></td>
+    <td><img src="assets/image3.png" width="300"/></td>
+    <td><img src="assets/image4.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="assets/images/screen5.png" width="300"/></td>
-    <td><img src="assets/images/screen6.png" width="300"/></td>
+    <td><img src="assets/image5.png" width="300"/></td>
+    <td><img src="assets/image6.png" width="300"/></td>
   </tr>
 </table>
 
